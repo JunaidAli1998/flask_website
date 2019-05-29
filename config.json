@@ -1,0 +1,22 @@
+{
+
+  "params": {
+    "local_server": "True",
+    "local_uri": "DRIVER={ODBC Driver 13 for SQL Server};SERVER=DESKTOP-CF5EPQL;DATABASE=Students;Trusted_Connection=yes",
+    "prod_uri": "DRIVER={ODBC Driver 13 for SQL Server};SERVER=DESKTOP-CF5EPQL;DATABASE=Students;Trusted_Connection=yes",
+    "fb_uri":"https://web.facebook.com/",
+    "tw_uri":"https://twitter.com/GSandRS",
+    "git_uri":"https://github.com/",
+    "text": "nameishgoshoghsohg",
+    "gmail-user": "mh4391278@gmail.com",
+    "gmail-password":"munawar123",
+    "no_of_post": 2,
+    "blog_name": "Coding Thunder",
+    "blog_tag":"programming for everyone",
+    "login_image":"login.svg",
+    "admin_user":"Junaid khan",
+    "admin_password": "password",
+    "uploader_location":"C:\\Users\\Asus\\PycharmProjects\\flask_1\\static"
+
+  }
+}
